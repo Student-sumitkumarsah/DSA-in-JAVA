@@ -11,7 +11,7 @@ public class dataType {
         //long   use biggest integer number 
         // double use biggest decimal number
         short d=3;
-        float price = 4.3;
+        float  price = 4.3f;
     }
     
 }
