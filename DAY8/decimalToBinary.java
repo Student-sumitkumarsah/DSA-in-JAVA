@@ -17,7 +17,7 @@ public class decimalToBinary {
         DecToBinary(5);
        
     }
-    
+
     
     
 }
