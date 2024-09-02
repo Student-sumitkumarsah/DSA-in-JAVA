@@ -5,7 +5,8 @@ public class asciiValue {
         
     
     for(int i=1;i<=255;i++){
-        System.out.println((char)i);
+         System.out.println((char)i);
+       
     }
     
 }
