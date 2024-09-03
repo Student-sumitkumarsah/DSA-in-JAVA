@@ -1,0 +1,21 @@
+public class half2Butterfly {
+    public static void half2(int n){
+        for(int i=n;i>=1;i--){
+            for(int j=1;j<=i;j++){
+                System.out.print("*");
+            }
+            for(int j=1;j<=2*(n-i);j++){
+                System.out.print(" ");
+            }
+            for(int j=1;j<=i;j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+    public static void main(String[] args) {
+        half2(4);
+        
+    }
+    
+}
