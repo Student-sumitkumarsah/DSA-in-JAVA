@@ -1,5 +1,3 @@
-package DSA.DAY15;
-
 public class sumofAllArrayElement {
     public static void Sum(int arr[]){
         int sum=0;
